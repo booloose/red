@@ -2,8 +2,11 @@
 [![Travis build](https://travis-ci.org/red/red.svg?branch=master)](https://travis-ci.org/red/red)
 [![Build status](https://ci.appveyor.com/api/projects/status/mie736c6x4268boo/branch/master?svg=true)](https://ci.appveyor.com/project/red/red/branch/master)
 
+Red 程序语言
 Red Programming Language
 ------------------------
+
+Red 是一个Rebol官方强力推荐的新编程语言
 
 **Red** is a new programming language strongly inspired by [Rebol](http://rebol.com), but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting, while providing modern support for concurrency and multi-core CPUs.
 
