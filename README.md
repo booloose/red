@@ -6,7 +6,7 @@ Red 程序语言
 Red Programming Language
 ------------------------
 
-Red 是一个Rebol官方强力推荐的新编程语言
+Red 是一个Rebol官方强力推荐的新编程语言，但是由于使用本地代码编译器，系统编程到高级脚本，她的使用更广，同时为并发性和多核cpu进行了支持。
 
 **Red** is a new programming language strongly inspired by [Rebol](http://rebol.com), but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting, while providing modern support for concurrency and multi-core CPUs.
 
